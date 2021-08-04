@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinayak-VG
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m currently working in 3D Reconstruction
+- 💞️ I’m currently working on 3D Reconstruction
 - 📫 How to reach me vinayakguptapokal@gmail.com
 
 <!---
